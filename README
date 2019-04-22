@@ -1,0 +1,10 @@
+Upon running, the program will ask user for 1 of 3 choices:
+(1) Generate 1 random N-Queens and solve using Hill Climb and Min Conflict.
+(2) Generate user choice 'n' random N-Queens and solve using Hill Clumb and Min Conflict.
+(3) Exit Program.
+
+If chosen option (1) or (2), the program will ask for the number of queens to generate. Enter your choice as an int.
+
+If chosen option (2), the program will ask to enter the number of random puzzles. Enter your choice as an int.
+The Program will then generate both searches and display the resulting boards as well as the initially generated board.
+The Success rates, time of search, and step costs are displayed for each search.
